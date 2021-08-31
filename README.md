@@ -1,5 +1,4 @@
 # About me
-- 🔭 I’m currently working on Radiotalk
 - 🌱 I’m currently learning Swift
 
 # Hackson Achievement
